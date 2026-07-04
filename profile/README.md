@@ -7,9 +7,21 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Welcome-3FB950?style=for-the-badge" alt="Open Source">
-  <img src="https://img.shields.io/badge/Community-Driven-blue?style=for-the-badge" alt="Community">
-  <img src="https://img.shields.io/badge/Made%20for-Developers-orange?style=for-the-badge" alt="Developers">
+  <a href="https://github.com/PackageSphere">
+    <img src="https://img.shields.io/badge/Open%20Source-Welcome-3FB950?style=for-the-badge" alt="Open Source">
+  </a>
+
+  <a href="https://github.com/PackageSphere">
+    <img src="https://img.shields.io/badge/Community-Driven-blue?style=for-the-badge" alt="Community">
+  </a>
+
+  <a href="https://github.com/PackageSphere">
+    <img src="https://img.shields.io/badge/Made%20for-Developers-orange?style=for-the-badge" alt="Developers">
+  </a>
+
+  <a href="https://razorpay.me/@krsahil8825">
+    <img src="https://img.shields.io/badge/❤️-Sponsor-ff69b4?style=for-the-badge" alt="Sponsor PackageSphere">
+  </a>
 </p>
 
 ## About
